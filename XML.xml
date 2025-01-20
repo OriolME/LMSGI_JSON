@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+    <!--Aqui tenim el producte poma-->
+    <producte>
+        <codi>1</codi>
+        <nom>Poma</nom>
+        <desc lang="ca">poma en perfecte estat</desc>
+        <preu>0,89</preu>
+        <categoria>fruita</categoria>
+        <disponibilitat>stock</disponibilitat>
+        <img>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl98RpM4bh2eq-ffnV2yGpaAdbMkk7ecPepw&s</img>
+    </producte>
+    <!--aqui tenim el producte pera-->
+    <producte>
+        <codi>2</codi>
+        <nom>pera</nom>
+        <desc lang="ca">pera amb imperfecions</desc>
+        <preu>0,90</preu>
+        <categoria>fruita</categoria>
+        <disponibilitat>stock</disponibilitat>
+        <img>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF6M3xpUiV5d0swfPBWKqirvSbvKWzduBlWQ&s</img>
+    </producte>
+</botiga>
+    
