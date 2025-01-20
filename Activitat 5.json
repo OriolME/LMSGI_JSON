@@ -1,0 +1,96 @@
+{
+  "pokemons": [
+    {
+      "id": 495,
+      "nombre": "Snivy",
+      "tipos": ["Planta"],
+      "peso": "8.1 kg",
+      "altura": "0.6 m",
+      "estadisticas": {
+        "velocidad": 63,
+        "fortaleza": 45,
+        "precision": 55,
+        "resistencia": 45
+      },
+      "movimientos": [
+        {
+          "nombre": "Látigo Cepa",
+          "descripcion": "Golpea al enemigo con un látigo hecho de viñas.",
+          "potencia": 45,
+          "contacto": true
+        },
+        {
+          "nombre": "Danza Espada",
+          "descripcion": "Aumenta significativamente el poder del usuario al incrementar su ataque.",
+          "potencia": 0,
+          "contacto": false
+        },
+        {
+          "nombre": "Hoja Afilada",
+          "descripcion": "Lanza hojas rápidas y afiladas al enemigo.",
+          "potencia": 55,
+          "contacto": false
+        }
+      ],
+      "imagen": "https://www.wikidex.net/wiki/Archivo:Snivy_(dream_world).png",
+      "evolucions": [
+        {
+          "id": 496,
+          "nombre": "Servine",
+          "nivelNecesario": 17
+        },
+        {
+          "id": 497,
+          "nombre": "Serperior",
+          "nivelNecesario": 36
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Squirtle",
+      "tipos": ["Agua"],
+      "peso": "9.0 kg",
+      "altura": "0.5 m",
+      "estadisticas": {
+        "velocidad": 43,
+        "fortaleza": 48,
+        "precision": 50,
+        "resistencia": 65
+      },
+      "movimientos": [
+        {
+          "nombre": "Pistola Agua",
+          "descripcion": "Dispara un chorro de agua al oponente.",
+          "potencia": 40,
+          "contacto": false
+        },
+        {
+          "nombre": "Refugio",
+          "descripcion": "El usuario se protege aumentando su defensa.",
+          "potencia": 0,
+          "contacto": false
+        },
+        {
+          "nombre": "Cabezazo",
+          "descripcion": "Un fuerte golpe con la cabeza que puede hacer retroceder al rival.",
+          "potencia": 70,
+          "contacto": true
+        }
+      ],
+      "imagen": "https://www.wikidex.net/wiki/Archivo:Squirtle_(dream_world).png",
+      "evolucions": [
+        {
+          "id": 8,
+          "nombre": "Wartortle",
+          "nivelNecesario": 16
+        },
+        {
+          "id": 9,
+          "nombre": "Blastoise",
+          "nivelNecesario": 36
+        }
+      ]
+    }
+  ]
+}
